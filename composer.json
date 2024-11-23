@@ -1,5 +1,5 @@
 {
-    "name": "vimeo/psalm",
+    "name": "incarntr/psalm",
     "type": "project",
     "description": "A static analysis tool for finding errors in PHP applications",
     "keywords": [
